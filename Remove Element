@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int removeElement(vector<int>& nums, int val) {
+        int lengthNums = nums.size();
+        for (int i=0;i<lengthNums;i++)
+        {
+            if(nums.at(i)==val)
+            {
+                for(int j=i;j<(nums.size()-1);j++)
+                {
+                    nums.at(j) = nums.at(j+1);
+                }
+                lengthNums--;
+                i--;
+                /*for(int k=0;k<lengthNums;k++)
+                    cout<<nums.at(k)<<",";
+                cout<<endl;*/
+            }     
+        }
+        //cout<<lengthNums;
+        return lengthNums;
+    }
+};
