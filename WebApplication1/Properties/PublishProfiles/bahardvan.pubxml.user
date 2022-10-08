@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoAZfoxsGrU2Z9lPi69GiYQAAAAACAAAAAAAQZgAAAAEAACAAAACPb1x6s8t22xzn2Dbgz6P+83ayzR+/aMXixw0HW7Ik7AAAAAAOgAAAAAIAACAAAAAdk4K7fIyQBO9CRTgE69l8iR+Y60RDu7YVScRY8c7hXRAAAADgJpFuvmLyRLmPEjNjJtDiQAAAAGDKjtTwq9iwBA5YMPWEz4XxNKTLG/NfCEYMDJC0ygZpG1+t9ltUr0Hy+7DmMKLY3BSIQ+R47LMXyLxyOI4iQSk=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://staj.veripark.com/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>05/05/2015 13:19:42</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>05/04/2015 23:15:48</publishTime>
+    </File>
+    <File Include="DetailsPage.aspx">
+      <publishTime>05/02/2015 16:50:30</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/05/2015 14:05:37</publishTime>
+    </File>
+    <File Include="ShoppingCartPage.aspx">
+      <publishTime>05/02/2015 17:05:10</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/05/2015 14:05:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

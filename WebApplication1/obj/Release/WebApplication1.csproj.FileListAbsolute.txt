@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\VeriPark Staj\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\USER\Desktop\VeriPark Staj\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\USER\Desktop\VeriPark Staj\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\USER\Desktop\VeriPark Staj\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\VeriPark Staj\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\USER\Desktop\VeriPark Staj\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
